@@ -11,7 +11,6 @@
  *  18 --> 11 + 7
  *  
  *  2023-03-31
- *  M.Melocchi
  */
 
 import javax.swing.JFrame;
